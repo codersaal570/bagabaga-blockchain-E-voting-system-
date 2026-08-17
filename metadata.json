@@ -1,0 +1,6 @@
+{
+  "name": "Bagabaga College Of Education Blockchain E-Voting System",
+  "description": "A decentralized, cryptographically secure blockchain e-voting platform featuring biometric authentication, multi-factor verification, live audit trail, real-time turnout analytics, and threat detection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
